@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maurizioprizzi
-- 👀 I’m interested in star a new career in AI and data analysis
+- 👀 I’m interested in start a new career in AI and data analysis
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on scientific projects
 - 📫 How to reach me: just write to maurizioprizzi@gmail.com
 
 <!---
