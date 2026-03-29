@@ -1,31 +1,89 @@
 # Maurizio Prizzi
-**Data Scientist | AI Researcher | University Professor**
 
-🎓 **Professor of Mathematical Modeling & Web Programming** at UniCEUB - University Center of Brasília  
-🔬 **Research Focus:** Mathematical optimization algorithms, predictive modeling, and AI applications  
-📊 **Academic Impact:** 500+ students trained in mathematical modeling and programming methodologies
+**ML Engineer · Matemático · Professor · Membro fundador da [GE.MA.DE.](##)**
 
-## Research Interests
-- **Mathematical Modeling:** Algorithm optimization, neural networks, statistical modeling
-- **Artificial Intelligence:** Machine learning frameworks, predictive analytics, deep learning
-- **Applied Mathematics:** Data analysis, big data processing, mathematical theory integration
-
-## Technical Expertise
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-## Academic Credentials
-- **M.S.** Data Analysis and Artificial Intelligence | Centro Universitário Uninter
-- **B.S.** Mathematics | Centro Universitário Uninter
-- **30+ years** in technology and software development
-- **5+ years** specializing in AI/ML research and education
-
-## Collaboration
-🤝 Open to **international research collaborations** in mathematical modeling and AI applications  
-📧 **Contact:** maurizioprizzi@gmail.com
+> *"O mercado não nos queria mais. Melhor coisa que aconteceu."*
 
 ---
-*"Translating complex mathematical concepts into practical AI solutions through research and education."*
+
+## Sobre
+
+Engenheiro de Machine Learning com mais de 30 anos em tecnologia e desenvolvimento de software.
+Especializado em **Deep Learning**, **NLP** e **PyTorch** — com foco em engenharia de software séria:
+OOP, Design Patterns, código limpo, versionado e testável.
+
+Bacharel em Matemática. Mestre em Análise de Dados e Inteligência Artificial.
+Professor de Modelagem Matemática e Programação Web no **UniCEUB — Brasília**.
+
+Trabalho de casa. No meu ritmo. Com Ubuntu Linux, um terminal e café.
+
+---
+
+## Stack
+
+```
+OS       →  Ubuntu Linux
+Language →  Python (OOP · Design Patterns · Clean Code)
+ML/DL    →  PyTorch · scikit-learn · HuggingFace Transformers
+NLP      →  Fine-tuning · LoRA · BERT · embeddings · text classification
+Data     →  DuckDB · pandas · numpy
+Viz      →  matplotlib · plotly
+Deploy   →  FastAPI · Docker
+Infra    →  Git · GitHub · Makefile
+Custo    →  R$ 0,00
+```
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [pipeline-educacao-brasil](https://github.com/maurizioprizzi/pipeline-educacao-brasil) | Pipeline de dados educacionais open source | Python · DuckDB |
+| [auditor-ia-contratos](https://github.com/maurizioprizzi/auditor-ia-contratos) | Auditoria de contratos com NLP | Python · PyTorch |
+| [ar-object-measure](https://github.com/maurizioprizzi/ar-object-measure) | Medição de objetos via realidade aumentada | Python · CV |
+| [libresinais](https://github.com/maurizioprizzi/libresinais) | Reconhecimento de sinais em libras | Python · Deep Learning |
+
+---
+
+## Interesses de pesquisa
+
+- Fine-tuning de LLMs com eficiência de parâmetros (LoRA / PEFT)
+- NLP aplicado ao Português Brasileiro
+- Modelagem matemática e otimização
+- MLOps: rastreamento de experimentos, deploy e monitoramento
+- Engenharia de software aplicada a ML — não só notebooks
+
+---
+
+## Filosofia
+
+Não uso ferramentas pagas quando Python resolve.
+Não uso GUI quando o terminal resolve.
+Não uso cloud quando o laptop resolve.
+
+Código que não tem teste, não tem versionamento e não tem arquitetura
+não é engenharia — é rascunho.
+
+---
+
+## GE.MA.DE.
+
+Membro fundador da **Geriatric Mathematicians and Developers** —
+um coletivo de matemáticos, estatísticos e engenheiros de software over 55
+que o mercado descartou e que decidiu não se aposentar.
+
+Trabalhamos de casa. De forma assíncrona. Gerenciados pelo GitHub.
+Entregamos o mesmo rigor técnico de sempre. Só que agora sem pedir licença pra ninguém.
+
+---
+
+## Contato
+
+📧 maurizioprizzi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/maurizioprizzi)
+📍 Brasília, Brasil
+
+---
+
+*Aberto a colaborações em pesquisa, projetos open source e conversas sobre matemática, ML e engenharia de software.*
