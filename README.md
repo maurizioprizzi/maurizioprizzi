@@ -1,3 +1,8 @@
+*Available for remote ML / Data Engineering projects.*  
+*Open to research collaborations and open-source projects.*
+
+---
+
 # Maurizio Prizzi
 
 **ML Engineer · Matemático · Professor · Membro fundador da [GE.MA.DE.](##)**
@@ -6,16 +11,20 @@
 
 ---
 
+# End-to-end ML systems. Mathematical rigor. Zero-cost infrastructure.
+
+---
+
 ## Sobre
 
-Engenheiro de Machine Learning com mais de 30 anos em tecnologia e desenvolvimento de software.
+Engenheiro de Machine Learning com mais de 30 anos construindo software e sistemas de dados em produção.
 Especializado em **Deep Learning**, **NLP** e **PyTorch** — com foco em engenharia de software séria:
 OOP, Design Patterns, código limpo, versionado e testável.
 
 Bacharel em Matemática. Mestre em Análise de Dados e Inteligência Artificial.
 Professor de Modelagem Matemática e Programação Web no **UniCEUB — Brasília**.
 
-Trabalho de casa. No meu ritmo. Com Ubuntu Linux, um terminal e café.
+Trabalho remoto. Ambiente Linux. Terminal, código e autonomia.
 
 ---
 
@@ -70,8 +79,7 @@ não é engenharia — é rascunho.
 ## GE.MA.DE.
 
 Membro fundador da **Geriatric Mathematicians and Developers** —
-um coletivo de matemáticos, estatísticos e engenheiros de software over 55
-que o mercado descartou e que decidiu não se aposentar.
+Profissionais over 55 com décadas de experiência que decidiram operar fora das estruturas tradicionais de mercado.
 
 Trabalhamos de casa. De forma assíncrona. Gerenciados pelo GitHub.
 Entregamos o mesmo rigor técnico de sempre. Só que agora sem pedir licença pra ninguém.
@@ -85,5 +93,3 @@ Entregamos o mesmo rigor técnico de sempre. Só que agora sem pedir licença pr
 📍 Brasília, Brasil
 
 ---
-
-*Aberto a colaborações em pesquisa, projetos open source e conversas sobre matemática, ML e engenharia de software.*
