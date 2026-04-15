@@ -41,7 +41,6 @@ Deploy   →  FastAPI · Docker
 Infra    →  Git · GitHub · Makefile
 Custo    →  R$ 0,00
 ```
-
 ---
 
 ## Projetos em destaque
@@ -83,6 +82,14 @@ Profissionais over 55 com décadas de experiência que decidiram operar fora das
 
 Trabalhamos de casa. De forma assíncrona. Gerenciados pelo GitHub.
 Entregamos o mesmo rigor técnico de sempre. Só que agora sem pedir licença pra ninguém.
+
+---
+
+## Publicações
+
+📖 **O Retorno ao Logos — Da Revolução Copernicana à Redescoberta da Consciência**
+Uma jornada intelectual de Copérnico a Levin, passando por Newton, Darwin, Einstein, Gödel e a Inteligência Artificial.
+[Amazon Kindle](link-do-livro-quando-estiver-disponível)
 
 ---
 
