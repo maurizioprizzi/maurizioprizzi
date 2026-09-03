@@ -35,26 +35,26 @@ I work primarily in Linux environments and communicate fluently across engineeri
 
 | Project | Description | Technologies |
 |---|---|---|
-| [Aetheris](https://github.com/maurizioprizzi/aetheris) | Experimental Android spatial-measurement platform with uncertainty-aware dimension, volume, and mass estimation. Includes ARCore anchor provenance, OpenGL rendering, JVM tests, ADRs, CI, and automated APK releases. | Kotlin Â· ARCore Â· OpenGL ES Â· Compose Â· Coroutines |
-| [pipeline-educacao-brasil](https://github.com/maurizioprizzi/pipeline-educacao-brasil) | Open-source analytical pipeline for Brazilian educational data. | Python Â· DuckDB Â· Data Engineering |
-| [auditor-ia-contratos](https://github.com/maurizioprizzi/auditor-ia-contratos) | NLP-oriented contract analysis and auditing system. | Python Â· PyTorch Â· NLP |
-| [libresinais](https://github.com/maurizioprizzi/libresinais) | Applied deep-learning project for sign-language recognition. | Python Â· Computer Vision Â· Deep Learning |
+| [Aetheris](https://github.com/maurizioprizzi/aetheris) | Experimental Android spatial-measurement platform with uncertainty-aware dimension, volume, and mass estimation. Includes ARCore anchor provenance, OpenGL rendering, JVM tests, ADRs, CI, and automated APK releases. | Kotlin · ARCore · OpenGL ES · Compose · Coroutines |
+| [pipeline-educacao-brasil](https://github.com/maurizioprizzi/pipeline-educacao-brasil) | Open-source analytical pipeline for Brazilian educational data. | Python · DuckDB · Data Engineering |
+| [auditor-ia-contratos](https://github.com/maurizioprizzi/auditor-ia-contratos) | NLP-oriented contract analysis and auditing system. | Python · PyTorch · NLP |
+| [libresinais](https://github.com/maurizioprizzi/libresinais) | Applied deep-learning project for sign-language recognition. | Python · Computer Vision · Deep Learning |
 
 ---
 
 ## Selected technologies
 
 ```text
-Languages       Python Â· Kotlin Â· SQL
-ML and AI       PyTorch Â· scikit-learn Â· Hugging Face Transformers
-NLP             Fine-tuning Â· LoRA Â· PEFT Â· BERT Â· Embeddings
-Data            DuckDB Â· pandas Â· NumPy
-Mobile and AR   Android Â· Jetpack Compose Â· Coroutines Â· ARCore
-Graphics        OpenGL ES 3.0 Â· GLSL
+Languages       Python · Kotlin · SQL
+ML and AI       PyTorch · scikit-learn · Hugging Face Transformers
+NLP             Fine-tuning · LoRA · PEFT · BERT · Embeddings
+Data            DuckDB · pandas · NumPy
+Mobile and AR   Android · Jetpack Compose · Coroutines · ARCore
+Graphics        OpenGL ES 3.0 · GLSL
 APIs            FastAPI
-Engineering     Clean Architecture Â· Design Patterns Â· Automated Testing
-Infrastructure  Linux Â· Docker Â· Git Â· GitHub Actions Â· CI/CD
-Visualization   Matplotlib Â· Plotly
+Engineering     Clean Architecture · Design Patterns · Automated Testing
+Infrastructure  Linux · Docker · Git · GitHub Actions · CI/CD
+Visualization   Matplotlib · Plotly
 ```
 
 ---
@@ -88,7 +88,7 @@ I am interested in collaborations connecting research, education, open-source en
 
 ## Publication
 
-**O Retorno ao Logos â€” Da RevoluÃ§Ã£o Copernicana Ã  Redescoberta da ConsciÃªncia**
+**O Retorno ao Logos ”Da Revolução Copernicana à Redescoberta da Consciência**
 
 An intellectual journey through science, mathematics, philosophy, consciousness, and artificial intelligence.
 
@@ -98,9 +98,9 @@ An intellectual journey through science, mathematics, philosophy, consciousness,
 
 ## Languages
 
-- Italian â€” Native
-- English â€” Fluent
-- Portuguese â€” Fluent
+- Italian: Native
+- English: Fluent
+- Portuguese: Fluent
 
 ---
 
