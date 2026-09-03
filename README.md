@@ -14,7 +14,7 @@ I am a software and machine learning engineer with more than 30 years of experie
 
 My work combines mathematical rigor with production engineering: explicit models, testable architectures, reproducible workflows, controlled uncertainty, and careful separation between experimental results and validated claims.
 
-I hold a bachelor's degree in Mathematics and a master's degree in Data Analysis and Artificial Intelligence. I teach Mathematical Modeling and Web Programming at UniCEUB in BrasÃ­lia and at Escola do Futuro in Santo AntÃ´nio do Descoberto.
+I hold a bachelor's degree in Mathematics and a master's degree in Data Analysis and Artificial Intelligence. I teach Mathematical Modeling and Web Programming at UniCEUB in Brasília and at Escola do Futuro in Santo Antônio do Descoberto.
 
 I work primarily in Linux environments and communicate fluently across engineering, mathematical, academic, and product contexts.
 
